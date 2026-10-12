@@ -9,7 +9,7 @@ A small React component library and page kit, documented and tested in Storybook
 It covers the building blocks of a typical SaaS settings area: buttons, cards, accessible form fields,
 app navigation, and full page compositions with a schema-validated settings form.
 
-<!-- TODO: add a screenshot -->
+[![Project settings page in Storybook](docs/project-settings-page.png)](https://nataliyabenova-walsh.github.io/northstar-ui/?path=/story/pages-projectsettingspage--default)
 
 ## Tech stack
 
