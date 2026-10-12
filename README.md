@@ -1,11 +1,15 @@
 # Northstar UI
 
+[![Build and deploy Storybook](https://github.com/NataliyaBenova-Walsh/northstar-ui/actions/workflows/storybook.yml/badge.svg)](https://github.com/NataliyaBenova-Walsh/northstar-ui/actions/workflows/storybook.yml)
+
 A small React component library and page kit, documented and tested in Storybook.
+
+**[View the live Storybook →](https://nataliyabenova-walsh.github.io/northstar-ui/)**
 
 It covers the building blocks of a typical SaaS settings area: buttons, cards, accessible form fields,
 app navigation, and full page compositions with a schema-validated settings form.
 
-<!-- TODO: add a screenshot and a link to the deployed Storybook -->
+<!-- TODO: add a screenshot -->
 
 ## Tech stack
 
